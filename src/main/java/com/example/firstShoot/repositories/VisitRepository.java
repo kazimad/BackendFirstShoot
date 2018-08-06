@@ -1,6 +1,6 @@
-package com.example.repositories;
+package com.example.firstShoot.repositories;
 
-import com.example.entities.Visit;
+import com.example.firstShoot.entities.Visit;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

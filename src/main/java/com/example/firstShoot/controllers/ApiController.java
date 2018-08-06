@@ -1,7 +1,7 @@
-package com.example.controllers;
+package com.example.firstShoot.controllers;
 
-import com.example.entities.Visit;
-import com.example.repositories.VisitRepository;
+import com.example.firstShoot.entities.Visit;
+import com.example.firstShoot.repositories.VisitRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
